@@ -10,6 +10,9 @@ An [Ansible Galaxy](https://galaxy.ansible.com/) role for configuring systemd-jo
 * [License][4]
 
 [1]: #configuration
+[2]: #example-requirements-file
+[3]: #example-playbook
+[4]: #license
 
 ## Configuration
 
