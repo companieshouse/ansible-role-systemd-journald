@@ -1,3 +1,6 @@
+> [!WARNING]
+> This standalone Ansible Galaxy role has been deprecated and replaced with a `systemd_journald` role belonging to the Ansible Collection [companieshouse.general](https://github.com/companieshouse/ansible-collection-general/).
+
 # Ansible Role: systemd-journald 
 
 An [Ansible Galaxy](https://galaxy.ansible.com/) role for configuring systemd-journald.
